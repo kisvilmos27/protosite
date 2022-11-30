@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(20, 20, 20);
+  color: white;
+}
+.header {
+  font-family: 'Courier New', Courier, monospace;
+}
+.header h1 {
+  text-align: center;
+  margin-top: -10px;
+  color: darkgoldenrod;
+}
+.sidepanel{
+  text-align: left;
+  height: 400px;
+  width: 400px;
+  top: 150px;
+  margin-left: -40px;
+  background-color: rgb(80,0,0);
+  border-radius: 10%;
+  color:darkgoldenrod;
+}
+.sidepanel h2{
+  margin-left: 33px;
+}
+.sidepanel p{
+  margin-top: -16px;
+  margin-left: 33px;
+}
